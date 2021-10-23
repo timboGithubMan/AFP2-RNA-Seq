@@ -12,6 +12,9 @@ In general TSA has very broad effects, and the experiment might benefit from mor
 As a whole we saw what we would expect to see: 
 ABA specifically regulates lipid storage, response to cold, cell homeostasis, and response to water. 
 TSA (an HDAC inhibitor) upregulates genes related to chromatin organization, negative regulation of gene expression, and cell response to DNA damage stimulus.
+
+Interesting findings:
+
 AFP2 overexpression upregulates glutathione related genes, nutrient reservoir activity, and water transport. 
 
 TSA significantly upregulates ribosome biogenesis genes, even though the seeds are not in a state of growth. (see KEGG maps)
