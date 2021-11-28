@@ -20,7 +20,7 @@ Interesting findings:
 AFP2 overexpression upregulates glutathione related genes, nutrient reservoir activity, and water transport. 
 
 TSA significantly upregulates ribosome biogenesis genes, even though the seeds are not in a state of growth. (see KEGG maps)
-This might be a compensatory mechanism for the increased transcription caused by inhibition of histone deacetylases.
+This might be a compensatory mechanism for the increased transcription caused by inhibition of histone deacetylases
 
 This experiment is still in progress. See "results_of_interest" in /k12_cluster_analysis for a short list of GO term analysis
 
