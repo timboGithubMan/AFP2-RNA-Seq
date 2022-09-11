@@ -1,12 +1,12 @@
 # AFP2-RNA-Seq
-RNA-Seq data and analysis of an Arabidopsis mutant overexpressing AFP2, a transcription factor that represses abscisic acid response by interacting with ABI5. 
+RNA-Seq data and analysis of an Arabidopsis mutant overexpressing AFP2, an intrinsically disordered protein that represses abscisic acid response by interacting with ABI5. 
 Mutants and WT seeds are observed in three conditions: control media, exposure to abscisic acid (ABA), and exposure to trichostatin A (TSA).
 Some of the replicates are large outliers, so medians were used for clustering.
 
 All files are reproducible with main_script.R, and all code was written by me.
 
 The original hypothesis was that AFP2 represses ABI5 in part by recruiting histone deactylases. If HDACs are inhibited by trichostatin A, AFP2 repression would also be inhibited.
-The original hypothesis has mostly been rejected, but there are some clusters that do fit the pattern 
+The original hypothesis is mostly incomplete, but there are some clusters that do fit the pattern 
 (differential expression between Y-AFP2 and WT in growth media and ABA, but not in TSA)
 
 In general TSA has very broad effects, and the experiment would benefit from more specific HDAC inhibitors.
